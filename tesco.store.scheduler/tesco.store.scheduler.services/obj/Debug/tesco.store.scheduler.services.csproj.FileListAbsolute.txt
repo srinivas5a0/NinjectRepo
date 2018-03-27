@@ -1,0 +1,12 @@
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.services.dll.config
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.services.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.services.pdb
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.data.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.entities.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\EntityFramework.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.data.pdb
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\tesco.store.scheduler.entities.pdb
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\bin\Debug\EntityFramework.xml
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\obj\Debug\tesco.store.scheduler.services.csprojResolveAssemblyReference.cache
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\obj\Debug\tesco.store.scheduler.services.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.services\obj\Debug\tesco.store.scheduler.services.pdb

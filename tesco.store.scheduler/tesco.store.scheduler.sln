@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesco.store.scheduler.data", "tesco.store.scheduler.data\tesco.store.scheduler.data.csproj", "{5DBF2DF8-870A-4BE3-8C73-E23AE77E5F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesco.store.scheduler.entities", "tesco.store.scheduler.entities\tesco.store.scheduler.entities.csproj", "{483C1191-3CB3-4DB8-B7A0-802AA3D62E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesco.store.scheduler.services", "tesco.store.scheduler.services\tesco.store.scheduler.services.csproj", "{03E02273-3D99-44E2-ACAE-216012118518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesco.store.scheduler.web", "tesco.store.scheduler.web\tesco.store.scheduler.web.csproj", "{6B818AC9-415D-4041-80FE-5B01EE059413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesco.store.scheduler.web.Tests", "tesco.store.scheduler.web.Tests\tesco.store.scheduler.web.Tests.csproj", "{F188AF19-9B4B-485A-A349-89DAB3768F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBF2DF8-870A-4BE3-8C73-E23AE77E5F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBF2DF8-870A-4BE3-8C73-E23AE77E5F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBF2DF8-870A-4BE3-8C73-E23AE77E5F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBF2DF8-870A-4BE3-8C73-E23AE77E5F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483C1191-3CB3-4DB8-B7A0-802AA3D62E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483C1191-3CB3-4DB8-B7A0-802AA3D62E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483C1191-3CB3-4DB8-B7A0-802AA3D62E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483C1191-3CB3-4DB8-B7A0-802AA3D62E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E02273-3D99-44E2-ACAE-216012118518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E02273-3D99-44E2-ACAE-216012118518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E02273-3D99-44E2-ACAE-216012118518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E02273-3D99-44E2-ACAE-216012118518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B818AC9-415D-4041-80FE-5B01EE059413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B818AC9-415D-4041-80FE-5B01EE059413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B818AC9-415D-4041-80FE-5B01EE059413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B818AC9-415D-4041-80FE-5B01EE059413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F188AF19-9B4B-485A-A349-89DAB3768F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F188AF19-9B4B-485A-A349-89DAB3768F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F188AF19-9B4B-485A-A349-89DAB3768F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F188AF19-9B4B-485A-A349-89DAB3768F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

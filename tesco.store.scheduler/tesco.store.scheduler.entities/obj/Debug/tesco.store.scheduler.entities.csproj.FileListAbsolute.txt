@@ -1,0 +1,5 @@
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.entities\bin\Debug\tesco.store.scheduler.entities.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.entities\bin\Debug\tesco.store.scheduler.entities.pdb
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.entities\obj\Debug\tesco.store.scheduler.entities.dll
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.entities\obj\Debug\tesco.store.scheduler.entities.pdb
+D:\Projects\scheduler\tesco.store.scheduler\tesco.store.scheduler.entities\bin\Debug\tesco.store.scheduler.entities.dll.config
